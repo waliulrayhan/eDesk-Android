@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Home page (linear layout button - custom button) round shape and ripple effect -->
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="@color/dark_red">
+    <item>
+        <shape android:shape="rectangle">
+<!--            <gradient-->
+<!--                android:startColor="#FFD83025"-->
+<!--                android:endColor="#FFB31217"/>-->
+            <solid android:color="#FFD83025"/>
+            <corners android:radius="20dp"/>
+        </shape>
+    </item>
+</ripple>

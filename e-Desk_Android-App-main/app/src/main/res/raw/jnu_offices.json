@@ -1,0 +1,484 @@
+{
+    "JnU Offices and Roles": [
+        {
+            "Students": null
+        },
+        {
+            "Faculty Members": {
+                "Faculty of Arts": {
+                    "Department of Bangla": {
+                        "Chairman": null,
+                        "Professor": null,
+                        "Associate Professor": null,
+                        "Assistant Professor": null,
+                        "Lecturer": null
+                    },
+                    "Department of English": {
+                        "Chairman": null,
+                        "Professor": null,
+                        "Associate Professor": null,
+                        "Assistant Professor": null,
+                        "Lecturer": null
+                    },
+                    "Department of History": {
+                        "Chairman": null,
+                        "Professor": null,
+                        "Associate Professor": null,
+                        "Assistant Professor": null,
+                        "Lecturer": null
+                    },
+                    "Department of Philosophy": {
+                        "Chairman": null,
+                        "Professor": null,
+                        "Associate Professor": null,
+                        "Assistant Professor": null,
+                        "Lecturer": null
+                    },
+                    "Department of Islamic History & Culture": {
+                        "Chairman": null,
+                        "Professor": null,
+                        "Associate Professor": null,
+                        "Assistant Professor": null,
+                        "Lecturer": null
+                    },
+                    "Department of Islamic Studies": {
+                        "Chairman": null,
+                        "Professor": null,
+                        "Associate Professor": null,
+                        "Assistant Professor": null,
+                        "Lecturer": null
+                    },
+                    "Department of Music": {
+                        "Chairman": null,
+                        "Professor": null,
+                        "Associate Professor": null,
+                        "Assistant Professor": null,
+                        "Lecturer": null
+                    },
+                    "Department of Theatre": {
+                        "Chairman": null,
+                        "Professor": null,
+                        "Associate Professor": null,
+                        "Assistant Professor": null,
+                        "Lecturer": null
+                    },
+                    "Department of Fine Arts": {
+                        "Chairman": null,
+                        "Professor": null,
+                        "Associate Professor": null,
+                        "Assistant Professor": null,
+                        "Lecturer": null
+                    }
+                },
+                "Faculty of Science": {
+                    "Department of Physics": {
+                        "Chairman": null,
+                        "Professor": null,
+                        "Associate Professor": null,
+                        "Assistant Professor": null,
+                        "Lecturer": null
+                    },
+                    "Department of Mathematics": {
+                        "Chairman": null,
+                        "Professor": null,
+                        "Associate Professor": null,
+                        "Assistant Professor": null,
+                        "Lecturer": null
+                    },
+                    "Department of Chemistry": {
+                        "Chairman": null,
+                        "Professor": null,
+                        "Associate Professor": null,
+                        "Assistant Professor": null,
+                        "Lecturer": null
+                    },
+                    "Department of Statistics": {
+                        "Chairman": null,
+                        "Professor": null,
+                        "Associate Professor": null,
+                        "Assistant Professor": null,
+                        "Lecturer": null
+                    },
+                    "Department of Computer Science & Engineering": {
+                        "Chairman": null,
+                        "Professor": null,
+                        "Associate Professor": null,
+                        "Assistant Professor": null,
+                        "Lecturer": null
+                    }
+                },
+                "Faculty of Social Science": {
+                    "Department of Economics": {
+                        "Chairman": null,
+                        "Professor": null,
+                        "Associate Professor": null,
+                        "Assistant Professor": null,
+                        "Lecturer": null
+                    },
+                    "Department of Political Science": {
+                        "Chairman": null,
+                        "Professor": null,
+                        "Associate Professor": null,
+                        "Assistant Professor": null,
+                        "Lecturer": null
+                    },
+                    "Department of Sociology": {
+                        "Chairman": null,
+                        "Professor": null,
+                        "Associate Professor": null,
+                        "Assistant Professor": null,
+                        "Lecturer": null
+                    },
+                    "Department of Social Work": {
+                        "Chairman": null,
+                        "Professor": null,
+                        "Associate Professor": null,
+                        "Assistant Professor": null,
+                        "Lecturer": null
+                    },
+                    "Department of Anthropology": {
+                        "Chairman": null,
+                        "Professor": null,
+                        "Associate Professor": null,
+                        "Assistant Professor": null,
+                        "Lecturer": null
+                    },
+                    "Department of Mass Communication and Journalism": {
+                        "Chairman": null,
+                        "Professor": null,
+                        "Associate Professor": null,
+                        "Assistant Professor": null,
+                        "Lecturer": null
+                    },
+                    "Department of Public Administration": {
+                        "Chairman": null,
+                        "Professor": null,
+                        "Associate Professor": null,
+                        "Assistant Professor": null,
+                        "Lecturer": null
+                    },
+                    "Department of Film and Television": {
+                        "Chairman": null,
+                        "Professor": null,
+                        "Associate Professor": null,
+                        "Assistant Professor": null,
+                        "Lecturer": null
+                    }
+                },
+                "Faculty of Business Studies": {
+                    "Department of Accounting & Information System": {
+                        "Chairman": null,
+                        "Professor": null,
+                        "Associate Professor": null,
+                        "Assistant Professor": null,
+                        "Lecturer": null
+                    },
+                    "Department of Management Studies": {
+                        "Chairman": null,
+                        "Professor": null,
+                        "Associate Professor": null,
+                        "Assistant Professor": null,
+                        "Lecturer": null
+                    },
+                    "Department of Finance": {
+                        "Chairman": null,
+                        "Professor": null,
+                        "Associate Professor": null,
+                        "Assistant Professor": null,
+                        "Lecturer": null
+                    },
+                    "Department of Marketing": {
+                        "Chairman": null,
+                        "Professor": null,
+                        "Associate Professor": null,
+                        "Assistant Professor": null,
+                        "Lecturer": null
+                    }
+                },
+                "Faculty of Law": {
+                    "Department of Law": {
+                        "Chairman": null,
+                        "Professor": null,
+                        "Associate Professor": null,
+                        "Assistant Professor": null,
+                        "Lecturer": null
+                    },
+                    "Department of Land Management and Law": {
+                        "Chairman": null,
+                        "Professor": null,
+                        "Associate Professor": null,
+                        "Assistant Professor": null,
+                        "Lecturer": null
+                    }
+                },
+                "Faculty of Life and Earth Sciences": {
+                    "Department of Geography & Environment": {
+                        "Chairman": null,
+                        "Professor": null,
+                        "Associate Professor": null,
+                        "Assistant Professor": null,
+                        "Lecturer": null
+                    },
+                    "Department of Botany": {
+                        "Chairman": null,
+                        "Professor": null,
+                        "Associate Professor": null,
+                        "Assistant Professor": null,
+                        "Lecturer": null
+                    },
+                    "Department of Zoology": {
+                        "Chairman": null,
+                        "Professor": null,
+                        "Associate Professor": null,
+                        "Assistant Professor": null,
+                        "Lecturer": null
+                    },
+                    "Department of Psychology": {
+                        "Chairman": null,
+                        "Professor": null,
+                        "Associate Professor": null,
+                        "Assistant Professor": null,
+                        "Lecturer": null
+                    },
+                    "Department of Pharmacy": {
+                        "Chairman": null,
+                        "Professor": null,
+                        "Associate Professor": null,
+                        "Assistant Professor": null,
+                        "Lecturer": null
+                    },
+                    "Department of Microbiology": {
+                        "Chairman": null,
+                        "Professor": null,
+                        "Associate Professor": null,
+                        "Assistant Professor": null,
+                        "Lecturer": null
+                    },
+                    "Department of Biochemistry & Molecular Biology": {
+                        "Chairman": null,
+                        "Professor": null,
+                        "Associate Professor": null,
+                        "Assistant Professor": null,
+                        "Lecturer": null
+                    },
+                    "Department of Genetic Engineering and Biotechnology": {
+                        "Chairman": null,
+                        "Professor": null,
+                        "Associate Professor": null,
+                        "Assistant Professor": null,
+                        "Lecturer": null
+                    }
+                },
+                "Institute of Modern Language": {
+                    "Chairman": null,
+                    "Professor": null,
+                    "Associate Professor": null,
+                    "Assistant Professor": null,
+                    "Lecturer": null
+                },
+                "Institute of Education and Research": {
+                    "Chairman": null,
+                    "Professor": null,
+                    "Associate Professor": null,
+                    "Assistant Professor": null,
+                    "Lecturer": null
+                }
+            }
+        },
+        {
+            "Vice-Chancellor Office": {
+                "Vice-Chancellor": null,
+                "Deputy Registrar and PS to VC": null,
+                "Deputy Registrar": null
+            }
+        },
+        {
+            "Audit Cell (Vice-Chancellor Office)": {
+                "Adviser": null,
+                "Deputy Director and Chief of Cell": null,
+                "Accounting Officer": null
+            }
+        },
+        {
+            "Treasurer Office": {
+                "Treasurer": null,
+                "Deputy Director (Audit)": null
+            }
+        },
+        {
+            "Registrar Office": {
+                "Registrar": null,
+                "Deputy Registrar": null,
+                "Deputy Controller of Examinations": null,
+                "Deputy Registrar (Law)": null,
+                "Deputy Registrar (Estate)": null,
+                "Assistant Registrar": null,
+                "Section Officer (Grade - 1)": null,
+                "Administrative Officer": null
+            }
+        },
+        {
+            "Central Library": {
+                "Librarian": null,
+                "Deputy Librarian": null,
+                "Assistant Registrar": null,
+                "Assistant Librarian": null,
+                "Cataloger": null,
+                "Office Secretary Cum Computer Operator": null
+            }
+        },
+        {
+            "Proctor Office": {
+                "Proctor": null,
+                "Assistant Proctor": null,
+                "Assistant Registrar": null,
+                "M.L.S.S (Grade - 4)": null,
+                "M.L.S.S": null
+            }
+        },
+        {
+            "Finance & Accounts": {
+                "Director": null,
+                "Additional Director": null,
+                "Deputy Director (Funds and Budget)": null,
+                "Deputy Director (Finance and Accounts)": null,
+                "Assistant Director": null,
+                "Section Officer (Grade - 1)": null,
+                "Administrative Officer": null,
+                "Office Secretary Cum Computer Operator": null
+            }
+        },
+        {
+            "Planning, Development & Works": {
+                "Director and Project Director": null,
+                "Deputy Director": null,
+                "Deputy Registrar": null,
+                "Assistant Registrar": null,
+                "Assistant Director": null,
+                "Section Officer (Grade - 1)": null,
+                "Office Secretary Cum Computer Operator": null,
+                "Office Assistant": null
+            }
+        },
+        {
+            "Controller Examinations Office": {
+                "Controller of Examinations": null,
+                "Additional Controller of Examinations": null,
+                "Deputy Registrar": null,
+                "Deputy Director (Networking and IT)": null,
+                "Assistant Controller of Examinations": null,
+                "Assistant Director (Finance and Accounts)": null,
+                "Assistant Registrar": null,
+                "Section Officer (Grade - 1)": null,
+                "Section Officer (Grade - 2)": null
+            }
+        },
+        {
+            "Chief Engineer Office": {
+                "Chief Engineer": null,
+                "Deputy Chief Engineer (Civil)": null,
+                "Executive Engineer (Civil)": null,
+                "Executive Engineer (Power)": null,
+                "Assistant Registrar": null,
+                "Assistant Engineer (Civil)": null,
+                "Assistant Engineer (Power)": null,
+                "Senior Electrician": null,
+                "Lower Division Assistant": null
+            }
+        },
+        {
+            "Public Relation, Information & Publication": {
+                "Director": null,
+                "Deputy Director": null,
+                "Assistant Director": null,
+                "Assistant Registrar": null,
+                "Office Assistant": null
+            }
+        },
+        {
+            "Medical Centre": {
+                "Deputy Chief Medical Officer": null,
+                "Medical Officer": null,
+                "Technical Officer (Medical)": null,
+                "Senior Medical Assistant": null
+            }
+        },
+        {
+            "ICT Cell": {
+                "Director": null,
+                "Associate Director": null,
+                "Deputy Director (Networking and IT)": null,
+                "Computer Programmer": null,
+                "Assistant Engineer (Network)": null,
+                "Assistant Computer Programmer": null,
+                "Assistant Engineer (Hardware)": null
+            }
+        },
+        {
+            "Transport Office": {
+                "Transport Administrator": null,
+                "Deputy Registrar": null,
+                "Assistant Registrar": null,
+                "Assistant Engineer (Transport)": null,
+                "Deputy Assistant Engineer (Refrigerator and AC) Muster Roll": null,
+                "Office Secretary Cum Computer Operator (Muster Roll)": null,
+                "Senior Office Assistant": null,
+                "Office Assistant": null,
+                "M.L.S.S (Muster Roll)": null,
+                "M.L.S.S (Bus Helper) Muster Roll": null,
+                "Senior Bus Driver - 1": null,
+                "Senior Bus Driver": null,
+                "Bus Driver - 1": null,
+                "Bus Driver": null,
+                "Bus Driver (Contractual)": null,
+                "Assistant Mechanic": null
+            }
+        },
+        {
+            "Physical Education Centre": {
+                "Assistant Director": null,
+                "Assistant Registrar": null,
+                "Physical Instructor (Male)": null
+            }
+        },
+        {
+            "Institutional Quality Assurance Cell": {
+                "Director": null,
+                "Additional Director": null,
+                "Assistant Director": null,
+                "Personal Officer to Director": null
+            }
+        },
+        {
+            "New Campus Construction, Land Acquisition and Development Project": {
+                "Project Director": null,
+                "Deputy Director": null,
+                "Executive Engineer (Civil)": null,
+                "Assistant Director": null
+            }
+        },
+        {
+            "Begum Fazilatunnesa Mujib Hall": {
+                "Provost": null,
+                "Resident Teacher": null
+            }
+        },
+        {
+            "Director (Research)": {
+                "Director": null
+            }
+        },
+        {
+            "Director (Student Welfare)": {
+                "Director": null,
+                "Assistant Registrar": null
+            }
+        },
+        {
+            "Counselling Centre": {
+                "Convener, Counselling Committee": null,
+                "Member, Counselling Committee": null
+            }
+        }
+    ]
+}

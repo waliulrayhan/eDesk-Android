@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "16595487982",
+    "project_id": "team-prefetch-e-desk-main",
+    "storage_bucket": "team-prefetch-e-desk-main.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16595487982:android:d85a5515901699dc24f7ff",
+        "android_client_info": {
+          "package_name": "com.example.edesk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16595487982-v9emfb9opmhbf2ql8hd22gqmf69imes2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXKaHwnnITI0Lz9LR_T73R7ydLKOYsaHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16595487982-v9emfb9opmhbf2ql8hd22gqmf69imes2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

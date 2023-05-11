@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">e-Desk</string>
+    <string name="app_slogan">All solutions in one platform</string>
+    <string name="userLoginActivityButton">User</string>
+    <string name="adminLoginActivityButton">Admin</string>
+    <string name="phoneBookActivityButton">Phone Book</string>
+    <string name="userButtonInfo">If you are a user, just tap here \u0020 \u0020 \u0020 \u0020 \u0020 \u0020</string>
+    <string name="adminButtonInfo">If you are the admin, just tap here \u0020 </string>
+    <string name="phoneBookButtonInfo">Find the offices contact numbers \u0020 \u0020</string>
+    <string name="adminPanelLoginTitle">Admin Panel</string>
+    <string name="userLoginTitle">User Login</string>
+    <string name="adminLoginID">User ID</string>
+    <string name="adminLoginPassword">Password</string>
+    <string name="adminLoginSignIn">Sign In</string>
+    <string name="forgotUserIDorPassword"><u>Forgot User ID or Password</u></string>
+    <string name="comingSoon">Coming Soon</string>
+    <string name="adminActivityViewDetails">View Details</string>
+    <string name="adminActivityAssignRole">Assign Role</string>
+    <string name="adminActivitySignOut">Sign Out</string>
+    <string name="adminActivityWelcomeTitle">Welcome Admin!</string>
+    <string name="adminActivityAssignRoleButtonInfo">Assign role to add a new user \u0020 \u0020 \u0020 \u0020 \u0020 \u0020</string>
+    <string name="adminActivityViewDetailsButtonInfo1">View and update the details of \u0020 \u0020 \u0020 \u0020 \u0020</string>
+    <string name="adminActivityViewDetailsButtonInfo2">existing users and offices</string>
+    <string name="adminActivitySignOutButtonInfo">Sign out from the admin app \u0020 \u0020 \u0020 \u0020 \u0020 \u0020 \u0020 \u0020</string>
+
+    <string-array name="SelectRoleOffice">
+        <item>Student</item>
+        <item>Faculty</item>
+        <item>Proctor Office</item>
+        <item>Treasurer Office</item>
+        <item>Vice-Chancellor Office</item>
+    </string-array>
+
+    <string-array name="SelectFaculty">
+        <item>Faculty of Arts</item>
+        <item>Faculty of Science</item>
+        <item>Faculty of Social Science</item>
+        <item>Faculty of Business Studies</item>
+        <item>Faculty of Law</item>
+        <item>Faculty of Life and Earth Sciences</item>
+        <item>Institute of Modern Language</item>
+        <item>Institute of Education and Research</item>
+    </string-array>
+
+    <string-array name="SelectDepartment">
+        <item>Department of Bangla</item>
+        <item>Department of English</item>
+        <item>Department of History</item>
+        <item>Department of Philosophy</item>
+        <item>Department of Islamic History and Culture</item>
+        <item>Department of Islamic Studies</item>
+        <item>Department of Music</item>
+        <item>Department of Theatre</item>
+        <item>Department of Fine Arts</item>
+    </string-array>
+
+    <string-array name="SelectPosition">
+        <item>test1</item>
+        <item>test2</item>
+        <item>test3</item>
+        <item>test4</item>
+        <item>test5</item>
+    </string-array>
+</resources>
